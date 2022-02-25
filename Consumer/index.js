@@ -4,8 +4,8 @@ const MQ_USER = "guest";
 const MQ_PASSWORD = "guest";
 const MQ_HOST = "localhost";
 const MQ_PORT = "5672";
-const MQ_VIRTUALHOST = "/wins2b";
-const QUEUE_NAME = "to-uam-email-online-queue";
+const MQ_VIRTUALHOST = "/ABC";
+const QUEUE_NAME = "QUEUE_NAME";
 
 const MQ_DEADLETTEREXCHANGE = "";
 const MQ_DEADLETTERROUTINGKEY = "";
